@@ -16,7 +16,7 @@ class _SoupOverviewScreenState extends State<SoupOverviewScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      // backgroundColor: Colors.white,
+      backgroundColor: Colors.white,
       appBar: AppBar(
         centerTitle: true,
         title: Text(
